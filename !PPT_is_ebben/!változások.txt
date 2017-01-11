@@ -1,0 +1,3 @@
+
+*a PPT bõvítve (de még így is vannak hiányosságok)
+*a forráskódból törlésre került 2 db teszteléskor használt metódus (Player osztály; PPT-ben jelölve), egyébként változatlan
