@@ -1,4 +1,4 @@
-package alap;
+package beadott;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -266,7 +266,5 @@ public class MainHF //TODO rename to Vezérlő #vagyvalamiilyesmi
 }//class MainHF
 
 /*  //#teszt; az alábbiak main()-ben lefutnak
-    System.out.println(CSV_FIDERATINGLIST);
     System.out.println(""+my_table3DtoString(PAIRINGTABLES[4]));
-    System.out.println(""+MIN_PLAYERS+" to "+MAX_PLAYERS);
 */  //
